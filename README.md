@@ -11,7 +11,7 @@ Un projet de site e-commerce développé avec **HTML, CSS, SQL et JavaScript**.
 Bootstrap
 Wampserver
 
-Ce projet est pour but d'apprendre git et github!!!
+Ce projet est pour but d'apprendre à utiliser git et github!!!
 
 <img width="1899" height="1026" alt="Capture d’écran (158)" src="https://github.com/user-attachments/assets/ba23ec24-3a25-438b-afad-def1fabce99b" />
 <img width="1896" height="840" alt="Capture d’écran (160)" src="https://github.com/user-attachments/assets/fe94c8b0-3048-4a3a-a1b6-c6a235d9c238" />
